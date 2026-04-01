@@ -143,7 +143,7 @@ Getting this system to production on an Apache server involved solving several r
 
 | Employee dashboard | E-signature | OTP verification | Document Signed Stamp
 |---|---|---|---|
-| ![Iqrar_Employee_dashboard_clean](https://github.com/user-attachments/assets/e2a8b129-af5a-4900-9eb1-e27e2276f0ef)| ![Iqrar_E-Sign_clean_1](https://github.com/user-attachments/assets/54fe9a61-d8a9-420f-9536-c9f9df8c1016) | ![Iqrar_OTP_clean](https://github.com/user-attachments/assets/565734c4-8927-4d14-bf7e-5b271c1e1d00)| | ![Iqrar_Signature_Stamp_clean](https://github.com/user-attachments/assets/e4ce4d20-a2ca-47e0-8b1f-a076a2077de0)
+| ![Iqrar_Employee_dashboard_clean](https://github.com/user-attachments/assets/e2a8b129-af5a-4900-9eb1-e27e2276f0ef)| ![Iqrar_E-Sign_clean_1](https://github.com/user-attachments/assets/54fe9a61-d8a9-420f-9536-c9f9df8c1016) | ![Iqrar_OTP_clean](https://github.com/user-attachments/assets/565734c4-8927-4d14-bf7e-5b271c1e1d00) | ![Iqrar_Signature_Stamp_clean](https://github.com/user-attachments/assets/e4ce4d20-a2ca-47e0-8b1f-a076a2077de0)
 
 
 ---
