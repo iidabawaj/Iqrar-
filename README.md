@@ -12,7 +12,6 @@ Paper-based acknowledgment letters are slow to distribute, hard to track, and im
 
 The system went from first line of code to live production in under three weeks.
 
-> **Live:** September 1, 2025 — deployed to a production Apache server
 
 ---
 
@@ -157,22 +156,6 @@ Getting this system to production on an Apache server involved solving several r
 **PDF manipulation in PHP** — overlaying a canvas-captured signature image onto an existing PDF using FPDI while preserving the original document required understanding how FPDI handles page imports, coordinate systems, and image placement. The pipeline had to work correctly for all three signature types.
 
 **Iterative design under a deadline** — the system started as a single-page layout and evolved into a full multi-section collapsible dashboard during development. Delivering that redesign while also fixing production bugs on a three-week timeline sharpened my ability to prioritize and scope changes effectively.
-
----
-
-## Development Timeline
-
-| Milestone | Date |
-|---|---|
-| Development started | July 22, 2025 |
-| System completed | August 10, 2025 |
-| Live in production | September 1, 2025 |
-
----
-
-## Project Status
-
-Live and in active use in production.
 
 ---
 
